@@ -9,5 +9,6 @@ import android.util.Log;
 public class LogUtils {
     public static void main (String[] args){
         System.out.println("Hello module");
+        Log.d("hello","hello module");
     }
 }
