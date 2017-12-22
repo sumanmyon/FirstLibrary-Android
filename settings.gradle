@@ -1,1 +1,1 @@
-include ':app', ':firstlib'
+include ':app', ':firstlib', ':secondlib'
